@@ -1,0 +1,246 @@
+Vorbereitung Bewerbungsgespräch Ferchau
+
+Kapitel
+Selbstpräsentation	2
+Überblick über Ferchau:	3
+Gründung und Geschichte:	3
+Dienstleistungen:	3
+Kunden und Branchen:	4
+Der Bereich IT und Telekommunikation	5
+Region Freiburg:	6
+Ferchau Freiburg und Softwareentwicklung:	6
+Ferchau in Zahlen	6
+Allgemein wichtige Fragen	7
+Warum haben Sie sich für diese Stelle beworben?	7
+Warum haben Sie Ihren letzten Job verlassen?	8
+Stärken und Schwächen Stärken	9
+Schwächen	10
+Wohnsituation	11
+Fragen:	11
+Thema Drogen	12
+
+
+ 
+Selbstpräsentation
+●	Andre Butze Softwareentwickler 
+●	Fachhochschulreife und die schulische Ausbildung “Assistenten für Informations- Kommunikationstechnik” abgeschlossen
+●	Ausbildung zum Fachinformatiker für Anwendungsentwicklung WUD Business Solutions GmbH
+=> ÍT-Systemhaus (SAP-Drittanbieter und IT-Dienstleister für weiteres, bietet Softwareberatung und Softwareentwicklung an)
+○	Zubringerplanung (C# Backend + Vue.js für Frontend)
+○	Software für IP-Telefonanlagen (C#-Desktopanwendung)
+○	Entwicklung des Backends für die Turista ERP-Software (C# .NET /
+ ASP .NET)
+●	Ein Jahr bei W&W Systemberatung GmbH gearbeitet 
+=> Softwarehersteller (Entwickelt eigenes ERP-System “Turista” für die Tourismusbranche)
+○	Entwicklung von Add-Ons für SAP (C# und MS SQL-Datenbank)
+○	Entwicklung einer kundenspezifischen Softwarelösung (VBA Access und MS SQL-Datenbank)
+●	1,5 Jahre in Reha 
+=> Erlangung meiner vollen beruflichen Leistungsfähigkeit
+●	Ich sehe mich bei der Softwareentwicklung im Bereich C# .NET Und sehe auch meine Stärken in C#, würde aber auch gerne meine Fähigkeiten im Bereich der Frontend Entwicklung mittels Webframeworks weiter ausbauen 
+●	Interessen / Hobbys
+○	Kampfsport (Bin in einer Verein in Freiburg!)
+○	Kochen 
+○	Skifahren
+ 
+Überblick über Ferchau:
+Ferchau ist ein führendes deutsches Ingenieur- und IT-Dienstleistungsunternehmen, das sich auf die Bereitstellung technischer Dienstleistungen in den Bereichen Engineering und IT spezialisiert hat. Das Unternehmen bietet maßgeschneiderte Lösungen für verschiedene Branchen, darunter Automobil, Luft- und Raumfahrt, Maschinenbau, Elektrotechnik, IT und Telekommunikation.
+Gründung und Geschichte:
+Gründung: Ferchau wurde 1966 von Karl Ferchau in Gummersbach gegründet.
+Entwicklung: Seit seiner Gründung hat sich Ferchau von einem kleinen Ingenieurbüro zu einem der führenden Engineering- und IT-Dienstleister in Deutschland und Europa entwickelt.
+Dienstleistungen:
+●	Ferchau bietet ein breites Spektrum an Dienstleistungen in den Bereichen Ingenieurwesen und IT an. Dazu gehören unter anderem:
+○	Projektmanagement
+○	Entwicklung und Konstruktion
+○	Softwareentwicklung
+○	IT-Consulting und -Support
+○	Elektrotechnik und Elektronik
+●	Sie arbeiten oft im Auftrag von großen Unternehmen in verschiedenen Branchen wie Automobil, Luft- und Raumfahrt, Maschinenbau, Energie und IT.
+ 
+Kunden und Branchen:
+Ferchau arbeitet mit einer Vielzahl von Kunden aus verschiedenen Branchen zusammen.
+●	Automobilindustrie
+○	Fahrzeugentwicklung
+○	Konstruktion
+●	Luft- und Raumfahrt
+○	Flugzeugentwicklung
+○	Wartung
+●	Maschinenbau
+○	Konstruktion
+○	Automatisierungstechnik
+●	IT und Telekommunikation
+○	Softwareentwicklung 
+○	IT-Consulting 
+●	Elektrotechnik und Elektronik
+○	Schaltungsdesign
+●	und weiteres
+
+Beispiele für Kunden sind:
+•	BMW
+•	Airbus
+•	Siemens
+•	Bosch
+Projektbeispiel:
+Induktives Laden in der E-Mobilität
+Die Lösung sind mobile Ladekomponenten, entweder in der Straße, auf Parkplätzen, Bushaltestellen
+
+ 
+Der Bereich IT und Telekommunikation
+Dienstleistungen:
+•	Anforderungsanalyse und Beratung
+•	Softwareentwicklung
+•	IT-Consulting und -Beratung
+•	Telekommunikation
+o	Netzwerkplanung und -management:
+o	IoT
+Projektbeispiele:
+•	App-Entwicklung für IoT-Produkte
+zuverlässige Kommunikation zwischen der Datenbank und den IoT Geräten mit Anwendung
+•	Idea2Product –Produktionsplanungssoftware
+Software für die Planung und Verwaltung von Produkten
+Standorte:
+Ferchau ist in Deutschland und darüber hinaus an vielen Standorten vertreten, um nah bei den Kunden zu sein und flexibel auf deren Anforderungen reagieren zu können. Das Unternehmen hat mehr als 100 Standorte in Deutschland und auch internationale Niederlassungen. Diese breite Standortverteilung ermöglicht es Ferchau, in verschiedenen Regionen und Branchen tätig zu sein und maßgeschneiderte Dienstleistungen anzubieten.
+Allgemeine Informationen zu den Standorten:
+•	Zentrale: Die Unternehmenszentrale von Ferchau befindet sich in Gummersbach, Nordrhein-Westfalen.
+•	Regionale Verteilung: Ferchau ist in ganz Deutschland präsent, von Großstädten wie Berlin, München und Hamburg bis hin zu kleineren Städten und Industrieregionen.
+•	Internationale Standorte: 
+Ferchau ist auch in einigen anderen europäischen Ländern vertreten, um Kunden auch außerhalb Deutschlands unterstützen zu können.
+Frankreich - Paris: 
+Ein bedeutender Standort für Ferchau (Automobilindustrie und IT)
+Spanien – Barcelona:
+Fokus auf IT-Dienstleistungen
+
+ 
+Region Freiburg:
+Branchen in der Region: Die Region um Freiburg ist wirtschaftlich vielfältig. Wichtige Branchen sind Maschinenbau, Medizintechnik, erneuerbare Energien, sowie Informationstechnologie und Softwareentwicklung. Diese Branchen sind auch für Ferchau von Interesse, da das Unternehmen hier Dienstleistungen anbietet.
+Beispiele für Unternehmen:
+Pfizer, Johnson & Johnson, Haufe Group
+
+Der Freiburger Standort bietet Dienstleistungen an im Bereich:  
+•	Softwareentwicklung
+•	Medizintechnik
+•	erneuerbare Energien 
+•	Biotechnologie und Pharma 
+
+Ferchau Freiburg und Softwareentwicklung:
+Der Standort Freiburg spielt eine wichtige Rolle in der Softwareentwicklung
+•	Kundenspezifische Softwarelösungen
+•	IT-Consulting
+•	Technologieintegration
+
+Ferchau in Zahlen
+Gründung: 1966
+Mitarbeiter: 10.000
+Standsorte in Deutschland: über 100
+Standorte international: 120
+Jahresumsatz: 820 Mio.
+
+
+ 
+Allgemein wichtige Fragen
+Warum haben Sie sich für diese Stelle beworben?
+•	Attraktivität des Unternehmens:
+o	Ferchau ist ein großes und erfolgreiches Dienstleistungsunternehmen, das auch im Bereich der IT und Softwareentwicklung tätig ist.
+o	Die Reputation und Größe von Ferchau ermöglichen die Arbeit an bedeutenden Projekten für renommierte Unternehmen.
+•	Übereinstimmung von Qualifikation und Stellenanforderungen:
+o	Meine Qualifikationen und praktischen Erfahrungen in der Softwareentwicklung entsprechen genau den Anforderungen der Stellenanzeige als Softwareentwickler C#/.NET.
+o	Spezifische Fähigkeiten: C#, .NET, .NET Core, JavaScript, TypeScript, Angular, HTML, CSS.
+•	Stärken und Entwicklungspotenzial:
+o	Meine Stärken liegen insbesondere in der Softwareentwicklung mit C# und .NET.
+o	Ich möchte meine grundlegenden Kenntnisse in der Web-Framework-Entwicklung weiter ausbauen, insbesondere in Angular und anderen modernen Web-Technologien.
+•	Persönliche und berufliche Weiterentwicklung:
+o	Ich bin überzeugt, dass Ferchau mir die Möglichkeit bietet, meine Fähigkeiten durch anspruchsvolle Projekte und Weiterbildungen weiterzuentwickeln.
+o	Ich sehe in Ferchau eine Umgebung, in der ich sowohl gefordert als auch gefördert werde.
+•	Arbeitsumfeld und Teamdynamik:
+o	Bei Ferchau habe ich die Möglichkeit, in einem professionellen und agilen Team von Softwareentwicklern zu arbeiten.
+o	Die Zusammenarbeit in einem solchen Team ermöglicht mir, meine Fähigkeiten weiter zu schärfen und einen wertvollen Beitrag zu leisten.
+
+ 
+Warum haben Sie Ihren letzten Job verlassen?
+•	Verlust der Zuverlässigkeit im Job durch Drogenkonsum und Suchtvergangenheit.
+•	Häufiges Zuspätkommen.
+•	Lob vom Chef für das Lösen schwieriger Aufgaben.
+•	Schwierigkeiten mit einfacheren Aufgaben aufgrund des Drogenkonsums.
+•	Teilnahme an einer Sucht-Reha.
+•	Erfolgreiche Behandlung des Suchtproblems.
+•	Jetzt wieder vollständig einsatzfähig.
+
+
+
+ 
+
+ 
+Stärken und Schwächen
+Stärken
+●	Verantwortungsbewusst: 
+Übernehme Verantwortung und sorge dafür, dass Aufgaben zuverlässig erfüllt werden.
+●	Autodidaktisch: 
+Eigne mir selbstständig neues Wissen und Fähigkeiten an. Habe mir einen Großteil meines Wissens selbstständig beigebracht.
+●	Arbeite selbstständig und lösungsorientiert: 
+Finde eigenständig Lösungen für Herausforderungen.
+●	Hilfsbereit
+●	Lernbereit und wissbegierig: 
+Ich bin technologieoffen und arbeite mich gerne in neue Thematiken ein um mein Fachwissen zu erweitern 
+●	Organisiert: 
+Halte meine Termine ein. Plane und strukturiere meine Arbeit, um effektiv zu sein.
+●	Höflich: 
+Begegne anderen stets mit Respekt und Freundlichkeit.
+●	Durchhaltevermögen: 
+Bleibe auch bei Herausforderungen und Rückschlägen am Ball.
+●	Kompromissbereit: 
+Suche nach gemeinsamen Lösungen, die allen Beteiligten gerecht werden.
+●	Fair: 
+Handle gerecht und Möchte das Entscheidungen zugunsten aller getroffen werden 
+●	Qualitätsbewusst: 
+Lege großen Wert auf hohe Qualität und Clean Code
+●	Respektvoll
+
+ 
+Schwächen
+●	Zögerlich beim Hilfe suchen
+Probleme versuche ich lange selbständig zu lösen und suche zu spät erst nach Hilfe 
+●	Vermeidet Konfrontationen
+Neige dazu, Konflikte zu umgehen, um Harmonie zu bewahren.
+●	Unter starker Belastung überfordert
+Fühle mich schnell überfordert, wenn der Druck zu hoch wird.
+Ich arbeite aktiv daran, Stress besser zu managen.
+●	Leicht ablenkbar
+In einer Arbeitsumgebung in der beispielsweise viele Umgebungsgeräusche sind lasse ich mich leicht ablenken
+●	Schüchtern
+Kann anfangs bisschen schüchtern sein 
+●	Zurückhaltend
+Trete anfangs nicht so selbstbewusst auf
+●	Nachgiebig
+Trete nicht für meinen Standpunkt ein und gebe zu schnell nach
+●	Naiv
+Verstehe Ironie nicht immer und bin oft zu ernst 
+
+ 
+Wohnsituation
+●	Aktueller Wohnort: Kirchheim
+●	Umzugswunsch: Freiburg
+●	Lebensmittelpunkt nach Freiburg verlegen
+●	Gründe für den Umzug:
+○	Abstinenzziel
+○	Der Wunsch den Neustart in einer anderen Stadt zu wagen
+○	Ich habe mir Freiburg ausgewählt, weil es eine  schöne und jung gebliebene Studentenstadt ist. Ich kenne mich in Freiburg auch schon ein bisschen aus, da ich schon zwei Monate in Freiburg gewohnt habe.
+●	Aktuell hab ich noch keine Wohnung in Aussicht, habe aber  bereits nach Wohnungen im Internet gesucht 
+●	Wäre aber direkt einsatzbereit 
+
+Fragen:
+Ab wann werde ich dann benötigt? Ich muss noch eine Wohnung suchen, finden und dann umziehen.
+●	Derzeit wohne ich bei meinen Eltern in Kirchheim
+●	plane, nach Freiburg zu ziehen
+●	habe bereits damit begonnen, nach einer geeigneten Wohnung in Freiburg zu suchen und bin zuversichtlich, bald fündig zu werden
+●	überbrücke ich die Zeit bis zum Einzug in eine feste Wohnung mit einem Airbnb
+●	Dabei kann ich auf die Unterstützung meiner Eltern zählen
+4 Wochen (ChatGPT sagt 4-8 Wochen)
+
+ 
+Thema Drogen
+●	medizinische Auszeit
+●	Die durchlaufung der gesamten Therapie hat 1,5 Jahre gedauert
+●	Habe in der Therapie zwar nicht als Softwareentwickler arbeiten können, habe aber trotzdem in gewissen Arbeitsbereichen gearbeitet (Küche, Schlosserei, Bäckerei) und habe zuerst auch an einer Online Schulung für Softwareentwicklung teilgenommen. Konnte in der Therapie auch noch an gewissen Punkten wie Selbstmanagement oder dem Umgang mit Stress arbeiten 
+●	Jetzt wieder voll belastbar und bin bereit, ins Berufsleben zurückzukehren.
+●	Partydrogen (Nur erwähnen falls noch tiefer danach gefragt wird)
+●	Abschlussnoten aus der Schule oder die Kündigung sind auf das Drogenthema zurückzuführen
+
